@@ -3,7 +3,7 @@
 # IMPORT LIBRARIES
 import numpy as np
 import matplotlib.pyplot as plt
-from tensorflow.keras.datasets import mnist
+from tensorflow.keras.datasets import mnist 
 
 
 # PART A: RECTANGLE TRANSFORMATIONS
