@@ -1,3 +1,3 @@
-Assignment-2.py
-Assignment-3.py
-Assignment-1.py
+import Assignment-2.py
+import Assignment-3.py
+import Assignment-1.py
